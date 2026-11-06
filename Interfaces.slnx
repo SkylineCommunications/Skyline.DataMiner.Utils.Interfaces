@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Utils.Interfaces.Tests/Utils.Interfaces.Tests.csproj" />
+  <Project Path="Utils.Interfaces/Utils.Interfaces.csproj" />
+</Solution>
