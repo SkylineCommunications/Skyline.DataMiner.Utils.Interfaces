@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <AssemblyName>Skyline.DataMiner.Utils.Interfaces</AssemblyName>
@@ -27,7 +27,7 @@
     <None Include="LICENSE.txt" Pack="true" PackagePath="" />
     <None Include="nuget\Icon.png" Pack="true" PackagePath="" />
   </ItemGroup>
-  
+
   <ItemGroup>
     <PackageReference Include="Skyline.DataMiner.CICD.CSharpAnalysis.Analyzer" Version="2.1.2">
       <PrivateAssets>all</PrivateAssets>
